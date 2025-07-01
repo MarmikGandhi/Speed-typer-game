@@ -15,7 +15,7 @@ A responsive, interactive speed typing game built using HTML, CSS, and JavaScrip
 ## 🌐 Live Preview
 
 You can play the game directly here (if hosted):  
-[🔗 Live Demo](https://your-username.github.io/speed-typer) *(Update this link after deployment)*
+[🔗 Live Demo](https://speed-typer-game-marmik.netlify.app/) *(Update this link after deployment)*
 
 ## 🛠️ Technologies Used
 
