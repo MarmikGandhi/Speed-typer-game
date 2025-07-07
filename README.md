@@ -65,7 +65,7 @@ If you have any feedback or suggestions, feel free to reach out:
 
 - GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
 - Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
-- LinkedIn: [marmik-gandhi]([https://www.linkedin.com/in/marmik-gandhi-006a55323/)
+- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
 
 ---
 
