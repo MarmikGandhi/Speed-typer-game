@@ -63,7 +63,7 @@ To run the project locally:
 
 If you have any feedback or suggestions, feel free to reach out:
 
-- GitHub: [@yourusername](https://github.com/MarmikGandhi)
+- GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
 - Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
 
 ---
