@@ -59,14 +59,12 @@ To run the project locally:
    - Hard: +2s
 4. The game ends when time runs out.
 
-## 📬 Contact
+## 🙋‍♀️ Author
 
-If you have any feedback or suggestions, feel free to reach out:
-
-- GitHub: [MarmikGandhi](https://github.com/MarmikGandhi)
+Developed by [Marmik Gandhi]
+Feel free to connect:  
+- GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
 - Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
 - LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
 
----
-
-Built with by *Marmik Gandhi*
+> Crafted with care and precision — where clean code meets creative passion.
